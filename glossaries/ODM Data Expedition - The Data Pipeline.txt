@@ -1,0 +1,22 @@
+﻿The Data Pipeline
+Adapted from the School of Data methodology. Mixture of original and copied text.
+
+
+The Data Pipeline is an approach to working with data from beginning to end. However, it important to remember that this is an iterative process, more agile than a linear, waterfall approach.  
+Define: What is the problem you are trying to solve?
+Data-driven projects always have a “define the problem you’re trying to solve” component. In this stage you start asking questions to help define your problem. Defining your problem means going from a theme (e.g. air pollution) to one or multiple specific questions (has bikesharing reduced air pollution?). Being specific forces you to formulate your question in a way that hints at what kind of data will be needed. This in turns helps you scope your project: is the data needed easily available? Or does it sound like some key datasets will probably be hard to get?
+ 
+Find: What data will help you answer your question?
+While the Define stage hints at what data is needed, finding the data is another step, and of varying difficulty. There are a lot of tools and techniques to help you, ranging from a simple question on your social network, to using the tools provided by a search engine (such as Google search operators), open data portals or a Freedom of Information request querying about what data is available in that branch of government. This phase can make or break your project, as you can’t do much if you can’t find the data! But this is also where creativity can make a difference: using proxy indicators, searching in non-obvious locations… don’t give up too soon! 
+ 
+Get: How will you get access to your data?
+To get the data from its initial location to your computer can be short and easy, or long and tricky. Luckily, there’s plenty of ways to do it. You can crowdsource using online forms, you can perform offline data collection, you can use some crazy web scraping skills, or you could simply download the datasets from government sites, using their data portals or through a Freedom of Information request.
+ 
+Clean: How will you make your data readable?
+It’s often the case the data we get is messy: duplicated rows, column names that don’t match the records, values that contain characters which will make it difficult for a computer to process, and so on. In this step, we need skills and tools that will help us get the data into a machine-readable format, so that we can analyse it. We’re talking about tools like OpenRefine or LibreOffice Calc and concepts like relational databases.
+ 
+Analyse: What is your data telling you? 
+This where we get insights about the problem we defined in the beginning. We’re going to use our mathematical and statistical skills to explore our dataset(s). We can analyse datasets using many, many skills and tools. We can use visualisations to get insights of different variables, we can use programming languages packages, such as Pandas (Python) or simply R, we can use spreadsheet processors, such as LibreOffice Calc or even statistical suites like PSPP.
+ 
+Present: How will you tell the story?
+Finally, you will need to present your data. Presenting it is all about thinking of your audience, the questions you set out to answer and the medium you select to convey your message or start your conversation. You don’t have to do all by yourself, it’s good practice to get support from professional designers and storytellers, who are experts at understanding what are the best ways to present data visually and with words.
