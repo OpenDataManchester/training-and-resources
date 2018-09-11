@@ -1,2 +1,3 @@
 # training-and-resources
-Resources and recipes for training
+Training curriculum and modules.
+Recipes and resources for training and events.
