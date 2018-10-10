@@ -1,29 +1,50 @@
-Data Pipeline: Asking Questions, beginning of the process.
-
 # Questions Workshop Facilitator's guide
-## Steps in the Data Pipeline
+
+### Data Pipeline: 
 Asking Questions, beginning of the process.
 
-## Workshop goals
+### Steps in the Data Pipeline
+Asking Questions, beginning of the process.
+
+### Workshop goals
 1. Make people feel ownership, control and agency of the data pipeline process.
 2. Teach people how to ask research questions.
 3. To create a focus on the data expedition.
 
-## Duration 
+### Duration 
 2.5 - 3 hours (including break)
 
-## Number of attendees
+### Number of attendees
 5-10
 
-## Distribution of skills 
+### Resources
+Post-it, markers, pens, flipchart, token (small stickers), laptops (optional), table, chairs. 
+
+### Distribution of skills 
 All skills - storyteller, analyst, designers, coders, scouts, but can also be done only with the storytellers.
 
-## Workshop agenda
-(15 min) Intro - (Investigate how 360G can help with your questions, and why we won’t make a map.
-“a map is a tool - not an answer”
- Constructive selfishness
-(10 min) Getting to know one another - Their name, what they do and “If they had one question to ask the ruler of the universe what will it be?”
-(30 min) Fish Market - write for each post it on what they want to solve  - write as much as you can and then categorize it to big themes and vote on them.
+### Workshop Prep
+You might want to crowdsource the questions in advance to this workshop to create more buzz and participation from different stakeholders. It also help to demonstrate how to write good questions. We use [allofourideas](ttps://www.allourideas.org) open source platform to collect the questions. This is not a manadatory step. 
+
+### Workshop agenda
+*(5 min)* Intro - Why we start with a question and not with a tool (“a map is a tool - not an answer”)
+Setting guidelines to the workshop:
+1. This is a safe space;
+2. No question is a silly question; 
+3. Constructive Selfnesses 
+
+*(10 min)* Icebreaker / warmup - Tell us your name, what you do and “If you had one question to ask the ruler of the universe what will it be?”
+[Facilitaor's note: this is to set the scene of how and why we are asking questions] 
+
+*(30 min)* Fish Market - write for each post it on what the goal / end game the participatns want to acheive at the end of the data pipeline process  - write as much as you can and then categorize it to big themes and vote on them.
+Guidance: 
+1. Think of big themes, give them one or two words. 
+2. Make the theme into a goal sentence: 
+ a. As X I want to do Y so I can do Z. *example: As an analyst I want to understand deprevation so I can alleviate poverty)*
+3. Think of goals that are relevant to you, not to people who are not in the room. 
+
+[Facilitator's noote: Take the Z parts of the sentences and put them to vote!] 
+
 (30 min) Break-out (2 or 3 groups) - choose a goal, what is the end goal you want to achieve?  Work on questions - look at the proposed questions - do they help to achieve the goal?
 A.  If not write new questions:
  Guidance:
