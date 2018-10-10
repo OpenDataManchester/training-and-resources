@@ -1,4 +1,4 @@
-# Data Expedition Guide
+# Data Expedition - Facilitator Guide
 
 ---
 ## 1.1 You will need:
