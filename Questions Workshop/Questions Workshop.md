@@ -1,23 +1,25 @@
 Data Pipeline: Asking Questions, beginning of the process.
 
 # Questions Workshop Facilitator's guide
-## Steps in the Data Pipeline:
+## Steps in the Data Pipeline
 Asking Questions, beginning of the process.
 
-## Workshop goals:
+## Workshop goals
 1. Make people feel ownership, control and agency of the data pipeline process.
 2. Teach people how to ask research questions.
 3. To create a focus on the data expedition.
 
-## Duration: 2.5 - 3 hours (including break)
+## Duration 
+2.5 - 3 hours (including break)
 
-## Number of attendees - 5-10
+## Number of attendees
+5-10
 
-## Distribution of skills -
+## Distribution of skills 
 All skills - storyteller, analyst, designers, coders, scouts, but can also be done only with the storytellers.
 
-## Workshop agenda:
-(15 min) Intro - Mor - (Investigate how 360G can help with your questions, and why we won’t make a map.
+## Workshop agenda
+(15 min) Intro - (Investigate how 360G can help with your questions, and why we won’t make a map.
 “a map is a tool - not an answer”
  Constructive selfishness
 (10 min) Getting to know one another - Their name, what they do and “If they had one question to ask the ruler of the universe what will it be?”
