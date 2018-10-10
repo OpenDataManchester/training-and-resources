@@ -34,7 +34,7 @@ Setting guidelines to the workshop:
 3. Constructive Selfnesses 
 
 *(10 min)* Icebreaker / warmup - Tell us your name, what you do and “If you had one question to ask the ruler of the universe what will it be?”
-[Facilitaor's note: this is to set the scene of how and why we are asking questions] 
+**[Facilitaor's note: this is to set the scene of how and why we are asking questions]** 
 
 *(30 min)* Fish Market - write for each post it on what the goal / end game the participatns want to acheive at the end of the data pipeline process  - write as much as you can and then categorize it to big themes and vote on them.
 Guidance: 
@@ -43,9 +43,9 @@ Guidance:
  a. As X I want to do Y so I can do Z. *example: As an analyst I want to understand deprevation so I can alleviate poverty)*
 3. Think of goals that are relevant to you, not to people who are not in the room. 
 
-[Facilitator's noote: Take the Z parts of the sentences and put them to vote!] 
+**[Facilitator's noote: Take the Z parts of the sentences and put them to vote!]** 
 
-(30 min) Break-out (2 or 3 groups) - choose a goal, what is the end goal you want to achieve?  Work on questions - look at the proposed questions - do they help to achieve the goal?
+*(30 min)* Break-out (2 or 3 groups) - choose a goal, what is the end goal you want to achieve?  Work on questions - look at the proposed questions - do they help to achieve the goal?
 A.  If not write new questions:
  Guidance:
  1. Avoid jargon.
@@ -56,9 +56,10 @@ B. What sub-questions come out of them? [This is optional and can be explored at
 Guidance:
   1. Use who and where, when and what?
   2. Can be a close question.
-[Facilitator's note: Try to divide it to groups of people who didn't know one another before the workshop. Facilitator to move around the groups to see if they need guidance.]
-(10 minutes) Report back from groups.
-(20 min) Break-out: What do we need to answer those questions? Very practical data
+**[Facilitator's note: Try to divide it to groups of people who didn't know one another before the workshop. Facilitator to move around the groups to see if they need guidance.]**
+
+*(10 minutes)* Report back from groups.
+*(20 min)* Break-out: What do we need to answer those questions? Very practical data
 * Each group creates a list of what they would need
 * Report back
-(20 min) Summary and how we will work in the Data Expedition
+*(20 min)* Summary and how we will work in the Data Expedition
