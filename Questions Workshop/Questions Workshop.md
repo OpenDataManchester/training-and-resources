@@ -1,6 +1,6 @@
 # Questions Workshop Facilitator's guide
 
-### Data Pipeline: 
+### Data Pipeline stage: 
 Asking Questions, beginning of the process.
 
 ### Steps in the Data Pipeline
@@ -45,21 +45,26 @@ Guidance:
 
 **[Facilitator's noote: Take the Z parts of the sentences and put them to vote!]** 
 
-*(30 min)* **Break-out** (2 or 3 groups) - choose a goal, what is the end goal you want to achieve?  Work on questions - look at the proposed questions - do they help to achieve the goal?
-A.  If not write new questions:
+*(30 min)* **Break-out** (2 or 3 groups) - choose a goal and work on questions. If you have questions in advance, look at the proposed questions - do they help to achieve the goal?
+A.  Write new questions:
  Guidance:
  1. Avoid jargon.
  2. Each question has one subject of research.
  3. Start with Why, How and What?
  4. Make sure it's an open ended question.
-B. What sub-questions come out of them? [This is optional and can be explored at the expedition itself]
+B. What sub-questions come out from the questions above? [This is optional and can be explored during a data expedition]
 Guidance:
-  1. Use who and where, when and what?
+  1. Use who and where, when,what or is?
   2. Can be a close question.
-**[Facilitator's note: Try to divide it to groups of people who didn't know one another before the workshop. Facilitator to move around the groups to see if they need guidance.]**
+**[Facilitator's note: Try to divide the group to small groups of 3-4 people who didn't know one another before the workshop. Facilitator to move around the groups to see if they need guidance. Gently reminnd partipants that these questions will be used in the data expedition, so the questions should be focused.]**
 
 *(10 minutes)* **Report back from groups.**
-*(20 min)* **Break-out** What do we need to answer those questions? Very practical data
+
+*(20 min)* **Break-out** What do we need to answer those questions? Very practical data that would be used in the expedition.
 * Each group creates a list of what they would need
 * Report back
+
 *(20 min)* Summary and how we will work in the Data Expedition
+ 1. Workshop owners to write a blog post that will be published up to a week before the data expedition and will descirbe the questions that the expedition will try to answer and why we decide on these questions. Facilitator can help in the process by write a summary and notes of the session. 
+ 2. This blog post should be emailed to all data expedition participants prior to the event.
+ 3. The questions will be presented in the data expedition by the one of the people who were in this workshop. 
