@@ -1,4 +1,5 @@
 # Data Expedition Guide
+
 ---
 ## 1.1 You will need:
 * Wifi (obvs)
@@ -21,6 +22,7 @@ Set out at start:
 * Use this as an opportunity to teach (so don’t touch other people’s computer as this will inhibit their learning);
 * Have some fun while learning;
 * Look out for going down a rabbit hole: notice when you are not progressing in a timely manner and try something else.
+
 ---
 ## 2.1 Welcome
 Aim of exercise: Introduce everyone to the day
@@ -78,6 +80,7 @@ Use the most engaging questions from spectogram as a starting question, to ‘de
 People might want to swap groups here depending on what they’re interested in investigating.
 If people have come with own dataset/question in mind, then grousp should be split based on this.
 Try to have good spread of scout/engineer/analyst/storyteller skills where possible!
+
 ---
 ## 3.1 Wall of Data
 Aim of exercise: Create a resource of online databases
@@ -92,8 +95,8 @@ At end of day, photograph or document & share with group.
 ## 3.2 Toolbox
 Aim of exercise: Create a resource of useful tools or software (preferable free/open!)
 Time (est): Ongoing throughout the expedition
+As with the Wall of Data, this is only aimed at useful tools or software that may help people open/process/clean data files i.e. OpenRefine for processing json files for Excel
 
-As the Wall of Data, only aimed at useful tools of software that may help people open/process/clean data files ie Open Refine for processing json files for Excel.
 ---
 ## 4.1 The Expedition
 Aim of exercise: Find/explore the dataset, go through the data pipeline as much as possible!
@@ -122,6 +125,7 @@ Time (est): 5 mins per group
 
 Present findings from expedition.
 Some people may not have got very far - this is OK!  
+
 ---
 ## 5.1 Notes
 Keyboard Hot Lava: imagine other people’s keyboards are hot lava. If you need to teach someone something, do not touch their keyboard. Get them to do it themselves - it’s how they will learn! 
