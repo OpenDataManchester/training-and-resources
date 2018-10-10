@@ -43,7 +43,7 @@ Guidance:
  a. As X I want to do Y so I can do Z. *example: As an analyst I want to understand deprevation so I can alleviate poverty)*
 3. Think of goals that are relevant to you, not to people who are not in the room. 
 
-**[Facilitator's noote: Take the Z parts of the sentences and put them to vote!]** 
+**[Facilitator's note: Take the Z parts of the sentences and put them to vote!]** 
 
 *(30 min)* **Break-out** (2 or 3 groups) - choose a goal and work on questions. If you have questions in advance, look at the proposed questions - do they help to achieve the goal?
 A.  Write new questions:
