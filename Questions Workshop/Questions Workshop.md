@@ -1,7 +1,7 @@
 # Questions Workshop Facilitator's guide
-*Authors* Mor Rubinstein [360Giving)[https://github.com/threesixtygiving], Julian Tait, and Sam Milsom
+*Authors:* Mor Rubinstein [360Giving)[https://github.com/threesixtygiving], Julian Tait, and Sam Milsom
 
-*Contributors* 
+*Contributors:* 
 
 ### Data Pipeline stage: 
 Asking Questions, beginning of the process.
