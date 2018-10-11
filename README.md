@@ -2,7 +2,7 @@
 
 This is the main repository of the Open Data Manchester and friends for training and resources. 
 
-Each folder should contain OpenDocument versions of materials and resources used by Open Data Manchester, as well as .md versions and any accompanying images etc for reuse and editing.
+Each folder should contain the training materials as .odt for editing, .md for editing, .pdf to give an indication of layout and a folder containing relevant resources, text, images etc.
 
 Wiki will be developed to provide recipes for training and training modules.
 
