@@ -1,30 +1,66 @@
 # Data Expedition - Facilitator Guide
 
+1. Preparation 
+2. On the day
+3. Expedition Structure
+4. 
+
 ---
-## 1.1 You will need:
-* Wifi (obvs)
-* Whiteboard 
-* Projector if possible for sharing!
+## 1.1 Types of Data Expeditions
+* With single organisations, with a specific dataset and/or questions
+* Mix of orgs and ability of attendees
+* Open event, members of public
+* Train the trainer format
+
+## 1.2 Before the Data Expedition
+
+If you are able to, you may want to run a [Data Questions Workshop](https://github.com/OpenDataManchester/training-and-resources/tree/master/Questions%20Workshop) to begin to determine the questions that participants will explore on the day. This can save a lot of time, and allow more time to the expedition itself.
+
+It is also recommended to send out the [glossaries and data pipeline](https://github.com/OpenDataManchester/training-and-resources/tree/master/glossaries) information in advance to familiarise attendees with terminology that will likely be used on the day.
+
+## 1.3 What your attendees need to bring with them
+* Laptops
+* A dataset or data-based issue/question that they wish to explore. This could be defined in the Data Questions workshop, or you may wish to define the problem on the day.
+
+## 1.4 Materials you need on the day:
+* Wifi (obviously)
+* Whiteboard / flip chart
 * Lots and lots of postits
 * Paper and markers
-* Data & Dragon template. Printed copies, enough for group
-* Data Pipeline - five or six sets, depending on how many people are attending.
-*  Camera for documenting
+* Any other materials depending on what exercises you will be completing
+* Lunch and refreshments
+* Camera (or phone) for documentation
 
-## 1.2 Your expedition attendees will need:
-*Laptops
-* Ideally a dataset or data-based issue that they or their org is having trouble with.
+## 1.5 Lesson Plan & preparation
 
-## 1.3 Rules for the day 
+You can find some [lesson plan examples and templates here](https://github.com/OpenDataManchester/training-and-resources/tree/master/logistics). We recommend using the basic structure found on the examples and in the section below, swapping out exercises and sections depending on the type of event you are running, the audience/attendees, amount of time available etc.
+
+---
+
+## 2.1 Environment
+(Some information on the room, the layout, keeping a warm and friendly environment that puts people at ease and is conducive to collaboration and learning)
+
+## 2.2 Rules for the day 
 Set out at start:
 * Be open to learning;
 * There no silly questions;
 * Use this as an opportunity to teach (so don’t touch other people’s computer as this will inhibit their learning);
 * Have some fun while learning;
 * Look out for going down a rabbit hole: notice when you are not progressing in a timely manner and try something else.
+* Keyboard Hot Lava: imagine other people’s keyboards are hot lava. If you need to teach someone something, do not touch their keyboard. Get them to do it themselves - it’s how they will learn! 
+
+## 2.3 Agenda/Structure of day
+* Welcome
+* Ice Breaker
+* Skill assessment (data explorer)
+* Questions - this could be a complete defining of questions, so extra exercises such as spectogram may be useful. Or it may be looking at questions from Data Question workshop & breaking down.
+* Expedition itself
+* Sharing
+
+* Throughout day, resources and tools should be added to the 'Wall of Data/data chest' and 'Toolbox'. 
 
 ---
-## 2.1 Welcome
+## 3.1 Welcome
 Aim of exercise: Introduce everyone to the day
 Time (est): 10-15 mins
 Housekeeping / fire alarm procedure etc
@@ -128,4 +164,4 @@ Some people may not have got very far - this is OK!
 
 ---
 ## 5.1 Notes
-Keyboard Hot Lava: imagine other people’s keyboards are hot lava. If you need to teach someone something, do not touch their keyboard. Get them to do it themselves - it’s how they will learn! 
+
