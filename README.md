@@ -1,6 +1,6 @@
 # Open Data Manchester training and resources
 
-This is the main repository of the Open Data Manchester and friends for training and resources. 
+This is the main repository for training and resources developed by Open Data Manchester and friends . 
 
 Each folder should contain the training materials as .odt for editing, .md for editing, .pdf to give an indication of layout and a folder containing relevant resources, text, images etc.
 
