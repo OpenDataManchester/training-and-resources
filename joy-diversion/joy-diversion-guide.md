@@ -51,8 +51,10 @@ Teams are given a backpack each for their expedition. Our backpacks include:
 * Notepad and pencil for notes / sketching.
 * String 
 * Emergency plasters and foil blanket
-* Envelope with inspiration cards written on them
+* Envelope with inspiration cards written on them. Examples can be found [here.](https://github.com/OpenDataManchester/training-and-resources/blob/master/joy-diversion/treasure%20hunt%20clues.doc)
 * Emergency transport map
+
+Example of what we use can found [here](https://github.com/OpenDataManchester/training-and-resources/blob/master/joy-diversion/backpack%20contents.JPG)
 
 These items give the day a fun sense of adventure and exploration. The 'inspiration cards' should remain sealed, to be used if team becomes really stuck or need a boost. They contain suggestions such as 'Look Up - what do you see?" or tell people to roll the dice and follow the direction given. 
 
@@ -80,6 +82,7 @@ Of course, you may wish to use something other that toy animals as your mascots,
 * If teams haven't naturally formed by this time, simply nudge people into groups by asking them what they would be interested in exploring. General interests and themes shouldn't be difficult to come by!
 * Ask each team to select a team leader and documentarian. Have them fill out a contact sheet (example HERE).
 * Have them select a team mascot and get them to note their team hashtag.
+* It's worth talk teams through the contents of the backpack. 
 * Make sure they also have your contact details.
 * Agree on a time to return for sharing. 
 
