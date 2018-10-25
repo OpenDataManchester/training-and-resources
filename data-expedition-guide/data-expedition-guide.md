@@ -26,8 +26,8 @@
   
   ## Resources
   
-  Data explorer sheets (1 per person)
-  Data pipeline cards (3-4 sets to do in groups)
+  [Data explorer sheets](https://github.com/OpenDataManchester/training-and-resources/tree/master/data-explorer) (1 per person)
+  [Data pipeline cards](https://github.com/OpenDataManchester/training-and-resources/tree/master/data-pipeline) (3-4 sets to do in groups)
   Post-its, markers, pens, flipchart, laptops, table, chairs.
   Lunch and refreshments
   
@@ -37,8 +37,8 @@
   
   ## Workshop Prep
   
-  You may want to have previously carried out a Questions Workshop. We strongly recommend this to allow more time for the expeiditon itself. However, if time is limited you can do a condensed version at the start of the day. Ideally you will enter the workshop with questions already proposed.
-  Glossaries should also be sent out to attendees in advance to prime them for terminology that may be used in the workshop.
+  You may want to have previously carried out a [Questions Workshop](https://github.com/OpenDataManchester/training-and-resources/tree/master/Questions%20Workshop). We strongly recommend this to allow more time for the expeiditon itself. However, if time is limited you can do a condensed version at the start of the day. Ideally you will enter the workshop with questions already proposed.
+  [Glossaries](https://github.com/OpenDataManchester/training-and-resources/tree/master/glossaries) should also be sent out to attendees in advance to prime them for terminology that may be used in the workshop.
   
   ## Workshop agenda
   
