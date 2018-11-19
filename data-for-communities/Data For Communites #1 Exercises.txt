@@ -1,0 +1,240 @@
+﻿Data for Communities #1 - Exercises
+
+
+
+
+________________
+
+
+
+
+Exercise 1: Explore the crime stats in your area
+
+
+Resource: police.uk - crime and policing statistics
+
+
+1. Go to https://www.police.uk
+2. Click on ‘Find your neighbourhood’
+3. Search for an area .
+4. How many crimes were reported in Sept 2018?
+5. Explore the map.
+6. How many anti-social behaviour reportings were there in Sept 2017?
+7. How does this compare to this year?
+
+
+Extension Exercise
+Explore the map again - what else can you find of interest to you? Draw your own area using the Pencil tool, and pull out some stats.
+
+
+________________
+
+
+
+
+Notes:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 2: What are the unemployment rates in your area?
+
+
+Resource: Nomis - official labour market statistics
+
+
+1. Go to: https://www.nomisweb.co.uk/
+2. Under the ‘Labour Market Profiles’ heading, click ‘2011 Ward Profile’.
+3. Search for your area by typing place or postcode in the ‘search’ box.
+4. On your ward’s profile page, scroll down to the ‘Employment and unemployment’ statistics.
+5. What are the unemployment figures?
+
+
+Extension Exercise - compare with another local area.
+
+
+1. At the bottom of the table, click ‘compare other areas’.
+2. Under ‘All People - economically active’ select ‘Unemployed.
+3. Scroll down to the table beneath the map to compare your area with other local areas. How does it compare?
+
+
+________________
+
+
+
+
+Notes:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 3: How much money did Big Lottery Fund give to projects in your area in 2017?
+
+
+Resource: GrantNav - UK grant data
+
+
+1. Go to http://grantnav.threesixtygiving.org/
+2. Search Location = [your area]
+3. On results page, filter by your area and ‘2017’.
+4. What was the total GBP awarded?
+5. What was the biggest and lowest award?
+6. How do these figures compare to the previous year?
+
+
+Extension Exercise
+Search for a specific theme or something that interests you ie “youth clubs” in your area. Find out total amount / biggest amount / lowest amount awarded.
+
+
+________________
+
+
+
+
+Notes:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 4: Find statistics on proposed housing sites in your area.
+
+
+Resource: MappingGM - mapped data of Greater Manchester
+
+
+1. Go to https://mappinggm.org.uk/
+2. View the ‘GMODIN’ map.
+3. Search for Wigan using the search function on the left-hand side of the screen.
+4. Use the filter box on the right to display any required boundaries you are interested in ie LSOA.
+5. Under ‘Planning and development’ select ‘Land identified for future housing developments’
+6. Select one of the highlighted sites on the map.
+7. What are the total housing additions planned between 2017-2035 for that area?
+
+
+Extension Exercise
+Explore the map using the different filters. Is there any link between brownfield sites and proposed housing sites? What else is of interest?
+ 
+________________
+
+
+
+
+Notes:
