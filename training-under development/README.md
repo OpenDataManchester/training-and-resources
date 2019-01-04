@@ -1,1 +1,3 @@
 Full modular training resources - under development
+At present simply structure of folders - content to be created...
+
