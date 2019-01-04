@@ -1,1 +1,1 @@
-Full modular training resources - under developement
+Full modular training resources - under development
