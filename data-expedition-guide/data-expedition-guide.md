@@ -42,32 +42,32 @@
   
   ## Workshop agenda
   
-  **Intro** - 5 mins
+ **[5 mins]** - **Intro** - 
   Introductions and agenda for the day
   
-  **Data Explorer** - 15 minutes
+  **[15 minutes]** - **Data Explorer** 
   Handout the Data Explorer sheets and explain task
   Fill out form as an example
   Once filled out, get everyone to share their results. Use to form teams - ideally match people with low skills in one area with those who have higher skills in that same area.
   Remind people that they are probably more capable than they give themselves credit for.
   Stick their sheets to wall, to come back to at end.
   
-  **Data Pipeline exercise** 15 minutes
+  **[15 minutes]** - **Data Pipeline exercise** 
   Hand out the data pipeline cards, one set per team.
   As them to put in correct order, with post-its/arrows to denote direction.
   They will probably put in linear order. Get them to question this.
   They should come up with something rather messy - more like snakes and ladders than a linear funnel.
   Share will group and discuss.
   
-   **DIKW and Questions** - 10 minutes
+   **DIKW and Questions** 
   Ask group about the questions they have come up with. USe to form groups.
   Talk throught he Data/Information/Knowledge/Wisdom triangle.
   
-  **Introduce Wall of Data and Toolbox** - 5 minutes
+**[5 minutes]** -  **Introduce Wall of Data and Toolbox**
   On whiteboards, name on 'Wall of Data', where people should put useful data repositories and portals that they come across. Maybe start by asking if anybody knows of any off the top of their head. Make sure they add to it throughout the day!
   Same for toolbox - only this focuses on programmes that are useful in cleaning/analysing/visualising data
   
-  **Rules for expedition** - 5 minutes
+**[5 minutes]** -   **Rules for expedition** 
   * Keyboard Hot Lava - don't touch anyone else's keyboard. If you want to teach someone how to do something, have them do it. They will not learn if you do  it for them.
   * People should break and take refreshments as and when they want to!
   * ...
@@ -75,16 +75,16 @@
   **Expedition** HOW LONG? 
   Teams set off to work on together to explore questions.
   
-  **Check in/sharing** - 5 minutes
+ **[5 minutes]** -  **Check in/sharing** 
   Teams quickly share wat they have done so far.
   Anything interesting? Any questions they have? Any skills needed?
   
   **Working lunch**
   
-  **Check in/sharing** - 5 minutes
+**[5 minutes]** -   **Check in/sharing** 
   For last hour or so, depending on how far participants have got, you could get them to think about summarising. Can they begin to see a story? Can they think about presenting?
   
-  **Presentation** 10-15mins
+**[10 minutes each group]** - **Presentation** 
   Teams present what they have found during the day.
   Did they answer their questions? Did they have to change question?
   
