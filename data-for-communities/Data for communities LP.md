@@ -23,24 +23,15 @@
 + Suggest people bring sandwiches
 
 
-Time
-Activity
-Lead
-Materials needed
-Learning Outcome
-18.00
+## Activities
 
-5m
-Introduction
+### Introduction, 5 mins
 Housekeeping.
 Maths question...
 What is Open Data Manchester?
 Run through agenda for evening
 
-SM
-Slides
-Introduction to evening.
-18.05
+
 
 15m
 Data Explorer
