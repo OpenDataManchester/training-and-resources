@@ -1,25 +1,26 @@
-Data For Communities Lesson Plan (Feb 19)
+#Data For Communities Lesson Plan (Feb 19)
 
-Workshop facilitators (Ideally 2)
-Room setup: Cabaret seating - Groups of 6-8
-Tech/equipment
-Projector (venue)
-Computer for facilitators (ODM)
-Computers/devices for workshop participants (venue/participants)
-Wifi for everyone (venue)
-Documentation
-Photos
-Feedback sheets
-Materials
-Marker pens
-Name badge stickers
-Data Explorer sheets
-DIKW pyramid info sheets
-Exercise sheets
-Feedback sheets.
-Catering
-Tea/coffee/biscuits provided by venue 
-Suggest people bring sandwiches
+##Requrements
+###Workshop facilitators - ideally 2
+###Room setup: Cabaret seating - Groups of 6-8
+###Tech/equipment
++Projector (venue)
++Computer for facilitators (ODM)
++Computers/devices for workshop participants (venue/participants)
++Wifi for everyone (venue)
+###Documentation
++Photos
++Feedback sheets
+###Materials
++Marker pens
++Name badge stickers
++Data Explorer sheets
++DIKW pyramid info sheets
++Exercise sheets
++Feedback sheets.
+###Catering
++Tea/coffee/biscuits provided by venue 
++Suggest people bring sandwiches
 
 
 Time
