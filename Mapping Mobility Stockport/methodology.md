@@ -2,6 +2,8 @@
 
 The following document will be useful to you if you are interested in finding out ways to map and document mobility and accessibility issues in urban areas.
 
+**Note**: This methodology focuses on the generation/collection of data only, not the digitisation of the map data.
+
 ## Project Aim
 
 The municipal environment often includes barriers that exclude people with restricted mobility. These barriers may be the result of natural topography, historic planning, deterioration of the urban environment or planned and unplanned maintenance. Some of the barriers may not be known to the local authority.
