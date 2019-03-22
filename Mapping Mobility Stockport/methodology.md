@@ -53,6 +53,12 @@ Try to go out in small groups, 1:1 if possible.
 
 We used digital dictaphones and asked participants to narrate their journey and experience as we went, asked questions for clarification and any other notes. 
 
+## Processing the data
+
+- how stockport council used it
+- OpenStreetMap tagging
+
+
 Extensive photographs were also taken for documentation.
 
 After each workshop, we then listened back to the audio and drew the routes and points onto the map, numbering points and items as per the indoor workshops. These were written up in the spreadsheet with corresponding photographs.
