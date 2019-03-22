@@ -1,4 +1,4 @@
-# Mapping Mobilty Stockport 
+# Mapping Mobilty Stockport Methodology
 
 The following document will be useful to you if you are interested in finding out ways to map and document mobility and accessibility issues in urban areas.
 
@@ -54,6 +54,9 @@ We used digital dictaphones and asked participants to narrate their journey and 
 Extensive photographs were also taken for documentation.
 
 After each workshop, we then listened back to the audio and drew the routes and points onto the map, numbering points and items as per the indoor workshops. These were written up in the spreadsheet with corresponding photographs.
+
+
+
 
 
 
