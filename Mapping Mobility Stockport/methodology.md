@@ -15,9 +15,7 @@ People with mobility impairments are on the frontline when it comes to negotiati
 As most of this information is tacitly contained within the communities themselves, there was a need to design a series of workshops which would help generate this data. The workshops and outdoor expeditions were co-designed with Disability Stockport and Age UK, and led by Open Data Manchester with Stockport Council. The information collected was fed directly back to Stockport Council, who would be responsible for the creation their own mobility map to be published onto the council website.
 
 ## Requirements
-Open Data Manchester partnered with Stockport Council, who provided large print, high resolution maps of the town centre.
-
-We worked alongside Disability Stockport and Age UK Stockport. The entire project relied on their full participation.
+Open Data Manchester partnered with Stockport Council, who provided large print, high resolution maps of the town centre. We worked alongside Disability Stockport and Age UK Stockport. The entire project relied on their full participation.
 
 For indoor workshops, we required suitable room, large table in the middle to lay out the map, ideally large-size post it notes and pens. Access to project for presenting any photographs etc was optional.
 
@@ -47,11 +45,14 @@ Post each workshop, post-it notes were written up onto a sharable spreadsheet. [
 
 ## Expedition methodology
 
-For the outdoor expeditions, it's good to have a sense of the routes you are going to take in advance. 
+For the outdoor expeditions, it's good to have a sense of the routes you are going to take in advance. Try to go out in small groups, 1:1 if possible. We used digital dictaphones and asked participants to narrate their journey and experience as we went, asked questions for clarification and any other notes. 
 
-Try to go out in small groups, 1:1 if possible. 
-
-We used digital dictaphones and asked participants to narrate their journey and experience as we went, asked questions for clarification and any other notes. 
+* Ideally go out 1:1.
+* Have a sense of the area or route you are going to explore in advance.
+* Allow for 1-2 hours, but this will depend on the person who is giving their time.
+* Digital audio recorder. Either have the person narrate the journey, or  record yourself, asking questions for clarificaiton where necessary.
+* Take photographs and videos of anything of note, which can be used as evidence later on or even uploaded as part of a map. If these can be geotagged, even better.
+* If you have access to GPS tracking device, you can record the route in real time. An app like myTracks allows you to record a route, mark points with notes and take photos, although it can take up a lot of battery power.
 
 ## Processing the data
 
