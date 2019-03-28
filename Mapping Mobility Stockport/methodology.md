@@ -25,23 +25,20 @@ You want to carry out a mixture of indoor workshops and outdoor expedtions. It's
 
 ## Workshop methodology 
 
-The aim of these workshops was to introduce participants to the project, generate discussion and to begin to list and map mobility obstructions.
+The aim of these workshops was to introduce participants to the project, generate discussion and to begin to list and map mobility obstructions. Post it notes were used to draw up a list of general and miscellanous things, such as 'tactile paving' or 'no controlled crossing'.If these referred to a particular area or specific place on the map, then a number was added to both the map and the corresponding post it note. This organically led to more detailed description of areas, such as the station or shopping centre. In between workshops, photographs were taken of these areas and the issues raised for confirmation and to generate further discussion. In subsequent workshops you may want to focus on particular areas to get more detailed insight. Specific areas and routes that are mapped in these sessions then provide stimulus for the outdoor expeditions. Or, if weather is not permitting, you can repeat the above steps.
 
-Post it notes were used to draw up a list of general and miscellanous things, such as 'tactile paving' or 'no controlled crossing'.
+* You need high-resolution map of the area you want to explore.
+* You need a room with a table large enough to lay out the hi-res map.
+* You'll need to take into account the specific needs of your workshop participants by including them in the workshop prep and design.
+* We began by generating a list of mobility and accessibility obstructions. 
+* We wrote these up on large post it notes and stuck to the wall.
+* We then drew directly onto the map routes and problem areas. We numbered each one, and wrote up a post-it note with corresponding number and details.
+* In between workshops, the facilitator visited some of these areas and took photographs to bring back for clarification.
+* The areas and routes discussed formed the stimulus for outdoor expeditions.
 
-If these referred to a particular area or specific place on the map, then a number was added to both the map and the corresponding post it note.
+You can view a sample lesson plan here [LINK]
 
-This organically led to more detailed description of areas, such as the station or shopping centre. 
-
-In between workshops, photographs were taken of these areas and the issues raised for confirmation and to generate further discussion.
-
-In subsequent workshops you may want to focus on particular areas to get more detailed insight.
-
-Specific areas and routes that are mapped in these sessions then provide stimulus for the outdoor expeditions. Or, if weather is not permitting, you can repeat the above steps.
-
-You can view a lesson plan here [LINK]
-
-Post each workshop, post-it notes were written up onto a sharable spreadsheet. [LINK TO OURS]. Any photgraphs taken between workshops were also numbered to match the post-it and mapping points.
+After each workshop, post-it notes were written up onto a sharable spreadsheet. [LINK TO OURS]. Any photgraphs taken between workshops were also numbered to match the post-it and mapping points. This would then be written digitally to map.
 
 ## Expedition methodology
 
