@@ -18,7 +18,7 @@ Requirements:
 If you are running a series of indoor workshops, visit the identified areas taking photographs, videos and any other documentation. Bring these back to the workshops for clarification and to generate further discussion.
 If you are also planning on outdoor expeditions, you may wish to take the routes identified.
 
-You can view a sample lesson plan (https://github.com/OpenDataManchester/training-and-resources/blob/master/Mapping%20Mobility%20Stockport/Mapping%20Mobility%20Workshop%20Style%20A%20-%20Draft(1).pdf)[here].
+You can view a sample lesson plan [here](https://github.com/OpenDataManchester/training-and-resources/blob/master/Mapping%20Mobility%20Stockport/Mapping%20Mobility%20Workshop%20Style%20A%20-%20Draft(1).pdf).
 
 ## Outdoor expedition methodology
 
@@ -38,3 +38,5 @@ Requirement:
 7. If you have access to GPS tracking device, you can record the route in real time. An app like myTracks allows you to record a route, mark points with notes and take photos, although it can take up a lot of battery power.
 
 As for the indoor workshop above, you want to ensure all documentation is numbered and written up accordlingly. 
+
+You can view lesson plan for the expeditions [here](https://github.com/OpenDataManchester/training-and-resources/blob/master/Mapping%20Mobility%20Stockport/Mapping%20Mobility%20Workshop%20Style%20B%20-%20Draft-1.pdf).
