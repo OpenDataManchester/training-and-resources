@@ -36,9 +36,9 @@ The aim of these workshops was to introduce participants to the project, generat
 * In between workshops, the facilitator visited some of these areas and took photographs to bring back for clarification.
 * The areas and routes discussed formed the stimulus for outdoor expeditions.
 
-You can view a sample lesson plan here [LINK]
+You can view a sample lesson plan here 
 
-After each workshop, post-it notes were written up onto a sharable spreadsheet. [LINK TO OURS]. Any photgraphs taken between workshops were also numbered to match the post-it and mapping points. This would then be written digitally to map.
+After each workshop, post-it notes were written up onto a sharable spreadsheet. Any photgraphs taken between workshops were also numbered to match the post-it and mapping points. This would then be written digitally to map.
 
 ## Expedition methodology
 
@@ -53,15 +53,7 @@ For the outdoor expeditions, it's good to have a sense of the routes you are goi
 
 ## Processing the data
 
-- how stockport council used it
-- OpenStreetMap tagging
-
-
-Extensive photographs were also taken for documentation.
-
-After each workshop, we then listened back to the audio and drew the routes and points onto the map, numbering points and items as per the indoor workshops. These were written up in the spreadsheet with corresponding photographs.
-
-
+This data was given to Stockport council to be added to their own recorded and to create a draft map.
 
 
 
