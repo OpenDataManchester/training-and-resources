@@ -18,7 +18,7 @@ Requirements:
 If you are running a series of indoor workshops, visit the identified areas taking photographs, videos and any other documentation. Bring these back to the workshops for clarification and to generate further discussion.
 If you are also planning on outdoor expeditions, you may wish to take the routes identified.
 
-You can view a sample lesson plan [https://github.com/OpenDataManchester/training-and-resources/blob/master/Mapping%20Mobility%20Stockport/Mapping%20Mobility%20Workshop%20Style%20A%20-%20Draft(1).pdf](here).
+You can view a sample lesson plan (https://github.com/OpenDataManchester/training-and-resources/blob/master/Mapping%20Mobility%20Stockport/Mapping%20Mobility%20Workshop%20Style%20A%20-%20Draft(1).pdf)[here].
 
 ## Outdoor expedition methodology
 
