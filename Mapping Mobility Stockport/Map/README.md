@@ -1,1 +1,1 @@
-# Open 'mobility.html' to view the map
+Open 'mobility.html' to view the map
