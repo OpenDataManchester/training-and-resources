@@ -22,7 +22,7 @@
   
   ## Number of attendees
   
-  5-10, plus any other data experts you may wish to invite to take part and support.
+  10-30, plus any other data experts you may wish to invite to take part and support.
   
   ## Resources
   
