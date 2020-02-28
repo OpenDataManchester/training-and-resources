@@ -1,6 +1,6 @@
-#Data for Communities - Exercises
+# Data for Communities - Exercises
 
-##Exercise 1: Explore the crime stats in your area
+## Exercise 1: Explore the crime stats in your area
 Resource: [police.uk](http://www.police.uk) - crime and policing statistics
 
 1. Go to [www.police.uk](http://www.police.uk).
