@@ -1,6 +1,8 @@
 Resources from an Introduction to OpenStreetMap, first delivered on 2nd May 2020 as part of the Pick N Mix programme.
 
-Link to next session http://www.bit.ly/ODM-PNM1
+Slides http://www.bit.ly/ODM-PNM1S
+
+Link to next session http://www.bit.ly/ODM-PNM2
 
 Link to main session page http://www.bit.ly/ODM-PNM
 
