@@ -7,7 +7,7 @@ Video: http://www.bit.ly/ODM-PNM2V
 All slides and resources: https://github.com/langtonhugh/qgis_intro
 
 Trams data: https://github.com/langtonhugh/qgis_intro/blob/master/data/trams_geo.csv 
-(To download tram data csv, click 'RAW'. This will show you a new page with teh raw data. Then click 'File' -> Save Page As (or right-click -> Save Page As) to save the CSV to your computer)
+(To download tram data csv, click 'RAW'. This will show you a new page with the raw data. Then click 'File' -> Save Page As (or right-click -> Save Page As) to save the CSV to your computer)
 
 Sam Langton on Twitter: https://twitter.com/sh_langton
 
