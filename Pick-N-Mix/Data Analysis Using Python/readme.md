@@ -2,10 +2,10 @@ Resources and links for Pick N Mix 5: an introduction to data analysis using Pyt
 
 [Recording of session](http://www.bit.ly/ODM-PNM5)
 
-Materials/resources for video: [https://github.com/jaspajjr/pick-n-mix-python-data-analysis](https://github.com/jaspajjr/pick-n-mix-python-data-analysis)
+[Materials/resources for video](https://github.com/jaspajjr/pick-n-mix-python-data-analysis)
 
-John on Twitter: 
+[John on Twitter](https://twitter.com/jaspajjr)
 
-PyDataMce on Twitter
+[PyDataMcr on Twitter](https://twitter.com/pydatamcr)
 
-PyDataMcr meetup:
+[PyDataMcr meetup:](https://www.meetup.com/PyData-Manchester/)
