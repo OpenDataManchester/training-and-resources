@@ -19,11 +19,10 @@ What it covers:
 What you'll need
 It's recommended that attendees should already be familiar with the basic methods of qualitative or quantitative data research.
 
-More information
-The UK Data Service website: https://www.ukdataservice.ac.uk/
-More news and events from the UKDS: https://www.ukdataservice.ac.uk/news-and-events/
+More information:
 
-- UK Data Service website: [https://www.ukdataservice.ac.uk/](https://www.ukdataservice.ac.uk/)
+- The UK Data Service website: https://www.ukdataservice.ac.uk/
+- More news and events from the UKDS: https://www.ukdataservice.ac.uk/news-and-events/
 - Patty Doran on Twitter: [https://twitter.com/Patty_NZ](https://twitter.com/Patty_NZ)
 
 
