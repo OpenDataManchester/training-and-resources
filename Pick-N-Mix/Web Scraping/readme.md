@@ -14,10 +14,10 @@ Vast swathes of our social interactions and personal behaviours are now conducte
 
 This webinar delineates the value, logic and process of capturing data stored on websites. Presented by Dr Diarmuid McDonnell of the UK Data Service, this webinar will cover:
 
-    - the step-by-step process of collecting data from a web page,
-    - working through sample code written in Python,
-    - an end-to-end demonstration of how to apply web-scraping to the capture of real-time information on the Covid-19 pandemic, and
-    - a demonstration of how web-scraping can be used to further research on other topics, including charitable organisations.
+- the step-by-step process of collecting data from a web page,
+- working through sample code written in Python,
+- an end-to-end demonstration of how to apply web-scraping to the capture of real-time information on the Covid-19 pandemic, and
+- a demonstration of how web-scraping can be used to further research on other topics, including charitable organisations.
 
 What you'll need:
 - Attendees may want to be familiar with/have installed Python, but this is not essential.
