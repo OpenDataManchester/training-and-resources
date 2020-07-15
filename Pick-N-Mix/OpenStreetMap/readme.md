@@ -1,12 +1,24 @@
-Resources from an Introduction to OpenStreetMap, first delivered on 2nd May 2020 as part of the Pick N Mix programme.
+**Pick N Mix 1: An Introduction to OpenStreetMap**
 
-Slides http://www.bit.ly/ODM-PNM1S (slides re-use material from Jez Nicholson, used with kind permission).
+**With Sam Milsom, Open Data Manchester CIC.**
 
-Link to next session http://www.bit.ly/ODM-PNM2
+**Recorded 2nd May 2020.**
 
-Link to main session page http://www.bit.ly/ODM-PNM
+**Video for session: [http://www.bit.ly/ODM-PNM1V](http://www.bit.ly/ODM-PNM1V)**
 
-Link to OSM http://www.openstreetmap.org
+**Slides from session: [http://www.bit.ly/ODM-PNM1S](http://www.bit.ly/ODM-PNM1S)**
+
+----
+
+OpenStreetMap is a free and editable map of the world, created and maintained by a huge international community. It's used in numerous projects by local communities, governments, software developers and more, with nearly 5 million registered users and 1 million contributors from all over the world.
+
+It includes data about roads, buildings, addresses, shops and businesses, points of interest, railways, trails, transit, land use and natural features, and much more.
+
+We'll explore the fundamentals of mapping with OpenStreetMap, some tools and apps, best practice, and some re-use by 3rd party projects.
+
+Whether you're completely new to OpenStreetMap and want to find out more, or whether you've used it before and wish to dive a bit deeper, then this is for you.
+
+- OpenStreetMap: http://www.openstreetmap.org
 
 Link to OSM wiki https://wiki.openstreetmap.org
 
