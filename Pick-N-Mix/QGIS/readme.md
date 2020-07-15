@@ -1,6 +1,6 @@
 **Pick N Mix 2: an Introduction to QGIS**
 
-**With Dr Sam Langton, Manchester Metropolitan University.
+**With Dr Sam Langton, Manchester Metropolitan University.**
 
 **Recorded 12th May 2020.**
 
