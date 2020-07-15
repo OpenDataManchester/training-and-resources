@@ -18,10 +18,10 @@ In this session, Rachael guides us through the basics of Github:
 - Tutorial of setting up a GitHub repository/project
 
 What you'll need
-- To follow along, you'll want to sign up for a GitHub account: github.com/join
+- To follow along, you'll want to sign up for a GitHub account.
 
 About Rachael
-- Rachael on GitHub: github.com/rainsworth
-- Rachael on Twitter: twitter.com/rachaelevelyn
-- HER+Data MCR Meetup group: meetup.com/HER-Data-MCR/
-- HER+Data MCR Twitter: twitter.com/herplusdatamcr
+- Rachael on GitHub: [https://github.com/rainsworth](https://github.com/rainsworth)
+- Rachael on Twitter: [https://twitter.com/rachaelevelyn](https://twitter.com/rachaelevelyn)
+- HER+Data MCR Meetup group: [https://www.meetup.com/herplusdatamcr/](https://www.meetup.com/herplusdatamcr/)
+- HER+Data MCR Twitter: [https://twitter.com/herplusdatamcr](https://twitter.com/herplusdatamcr)
