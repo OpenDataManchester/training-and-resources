@@ -1,7 +1,12 @@
-With Dr Reka Solymosi, University of Manchester.
-Recorded 14th July 2020.
-Video for session: [https://bit.ly/ODM-PNM10V](https://bit.ly/ODM-PNM10V)
-Resources for session: [https://rekadata.net/talks/odm_apis.html](https://rekadata.net/talks/odm_apis.html)
+**With Dr Reka Solymosi, University of Manchester.**
+
+**Recorded 14th July 2020.**
+
+**Video for session: [https://bit.ly/ODM-PNM10V](https://bit.ly/ODM-PNM10V)**
+
+**Resources for session: [https://rekadata.net/talks/odm_apis.html](https://rekadata.net/talks/odm_apis.html)**
+
+----
 
 One of the principles of open data is that it is accessible and usable. A way that organisations provide such access to their data is through the use of APIs (application programming interface).
 
