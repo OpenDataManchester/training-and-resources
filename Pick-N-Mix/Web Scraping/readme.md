@@ -6,7 +6,7 @@
 
 **Video for session: http://www.bit.ly/ODM-PNM4V1.**
 
-**Resources for session: [https://github.com/UKDataServiceOpen/code-demos/blob/master/code/ukds-web-scraping-2020-05-13.ipynb](https://github.com/UKDataServiceOpen/code-demos/blob/master/code/ukds-web-scraping-2020-05-13.ipynb) 
+**Resources for session: [https://github.com/UKDataServiceOpen/code-demos/blob/master/code/ukds-web-scraping-2020-05-13.ipynb](https://github.com/UKDataServiceOpen/code-demos/blob/master/code/ukds-web-scraping-2020-05-13.ipynb)**
 
 ----
 
