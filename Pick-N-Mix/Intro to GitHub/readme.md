@@ -1,11 +1,27 @@
-Resources and links for Pick N Mix 9: an introduction to Github, with Dr Rachael Ainsworth, 30th June 2020.
+**Pick N Mix 9: an introduction to Github**
 
-[Recording of session](https://vimeo.com/435771660)
+**With Dr Rachael Ainsworth, Her+Data MCR & University of Manchester.**
 
-[Materials/resources for session](https://github.com/rainsworth/intro-to-github)
+**Recorded 30th June 2020.**
 
-[Rachael on Twitter](https://twitter.com/rachaelevelyn)
+**Video for session: [http://www.bit.ly/ODM-PNM9V](http://www.bit.ly/ODM-PNM9V)**
 
-[HER+Data MCR on Twitter](https://twitter.com/herplusdatamcr)
+**Resources for session: [https://github.com/rainsworth/intro-to-github](https://github.com/rainsworth/intro-to-github)**
 
-[HER+Data MCR on Meetup](https://www.meetup.com/HER-Data-MCR)
+----
+
+In this session, Rachael guides us through the basics of Github:
+- Friendly introduction to version control, git and GitHub.
+- Examples of how GitHub is used
+- GitHub interface tour and jargon busting
+- GitHub for collaboration and best practices
+- Tutorial of setting up a GitHub repository/project
+
+What you'll need
+- To follow along, you'll want to sign up for a GitHub account: github.com/join
+
+About Rachael
+- Rachael on GitHub: github.com/rainsworth
+- Rachael on Twitter: twitter.com/rachaelevelyn
+- HER+Data MCR Meetup group: meetup.com/HER-Data-MCR/
+- HER+Data MCR Twitter: twitter.com/herplusdatamcr
