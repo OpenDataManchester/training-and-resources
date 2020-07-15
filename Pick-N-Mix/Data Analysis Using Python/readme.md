@@ -1,11 +1,26 @@
-Resources and links for Pick N Mix 5: an introduction to data analysis using Python, with Dr John Carney, 2nd June 2020.
+**Pick N Mix 5: an introduction to data analysis using Python. 
 
-[Recording of session](http://www.bit.ly/ODM-PNM5V)
+**With Dr John Carney, PyDataMcr & PDFTA.
 
-[Materials/resources for video](https://github.com/jaspajjr/pick-n-mix-python-data-analysis)
+**Recorded 2nd June 2020.
 
-[John on Twitter](https://twitter.com/jaspajjr)
+**Video for session: [http://www.bit.ly/ODM-PNM5V](http://www.bit.ly/ODM-PNM5V)
 
-[PyDataMcr on Twitter](https://twitter.com/pydatamcr)
+**Resources for session: [https://github.com/jaspajjr/pick-n-mix-python-data-analysis](https://github.com/jaspajjr/pick-n-mix-python-data-analysis)
 
-[PyDataMcr meetup:](https://www.meetup.com/PyData-Manchester/)
+----
+In this session we'll explore:
+
+- Loading CSV data into an interactive Python environment
+- Exploring data visualisations
+- Basic operations, filtering, aggregations, and more.
+
+What you'll need:
+
+Some basic knowledge of Python, programming and a desire to learn.
+
+John on Twitter: [https://twitter.com/jaspajjr](https://twitter.com/jaspajjr)
+
+PyDataMcr on Twitter: [https://twitter.com/pydatamcr](https://twitter.com/pydatamcr)
+
+
