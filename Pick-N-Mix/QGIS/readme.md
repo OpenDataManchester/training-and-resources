@@ -21,7 +21,6 @@ In this session, we'll:
 What you'll need:
 - No prior experience with QGIS is required.
 - If you would like to follow along with the demonstration, you can download the latest stable release of QGIS (version 3.10) directly from the website. It is completely free.
-
 - Download QGIS: https://www.qgis.org/en/site/forusers/download.html
 - Manchester trams data: https://github.com/langtonhugh/qgis_intro/blob/master/data/trams_geo.csv 
 
