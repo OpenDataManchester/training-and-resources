@@ -1,27 +1,28 @@
-All resources from Pick N Mix 8: Creating Lava Lamp Plots Using R
+**Pick N Mix 8: Creating Lava Lamp Plots Using R**
 
-Recorded 23 June 2020, with Jamie Whyte
+**With Jamie Whyte, Open Data Manchester CIC.
 
-Session video: [http://bit.ly/ODM-PNM8V](http://bit.ly/ODM-PNM8V)
+**Recorded 23 June 2020.**
 
-Github: https://github.com/northernjamie/odm-pic-mix-deprivation
+**Video for session: [http://bit.ly/ODM-PNM8V](http://bit.ly/ODM-PNM8V)**
 
-LSOA IMD Data: https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdata%2Fsocietal-wellbeing%2Fimd2019%2Findices
+**Resources for session: https://github.com/northernjamie/odm-pic-mix-deprivation**
 
-LA IMD Data: https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdata%2Fsocietal-wellbeing%2Fimd2019%2Findicesbyla
-R: https://cran.r-project.org/
+----
 
-RStudio: https://rstudio.com/
+In this session, we'll explore using R to process and visualise data, with specific focus on the tidyverse suite of tools, to make deprivation profiles from the Index of Multiple Deprivation data.
 
-Tidyverse: https://www.tidyverse.org/
+To follow along, you'll need to install R, Rstudio, and the tidyverse package. However, you'll also get a lot from watching the session.
 
-Political control spreadsheet: https://docs.google.com/spreadsheets/d/1vkDwmBKL9P7m99oQXdieJzLFDna2XIhOFDWQ5gVoXq8/edit#gid=0
-
-ONS Geographical lookups: https://geoportal.statistics.gov.uk/
-
-R for Data Science (excellent tidyverse tutorials): https://r4ds.had.co.nz/
-
-Parliamentary constituency deprivation profile: https://propolis.io/deprivation-profiles/
+- R: https://cran.r-project.org/
+- RStudio: https://rstudio.com/
+- Tidyverse: https://www.tidyverse.org/
+- LSOA IMD Data: https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdata%2Fsocietal-wellbeing%2Fimd2019%2Findices
+- LA IMD Data: https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdata%2Fsocietal-wellbeing%2Fimd2019%2Findicesbyla
+- Political control spreadsheet: https://docs.google.com/spreadsheets/d/1vkDwmBKL9P7m99oQXdieJzLFDna2XIhOFDWQ5gVoXq8/edit#gid=0
+- ONS Geographical lookups: https://geoportal.statistics.gov.uk/
+- R for Data Science (excellent tidyverse tutorials): https://r4ds.had.co.nz/
+- Parliamentary constituency deprivation profile: https://propolis.io/deprivation-profiles/
 
 Jamie on Twitter: [http://www.twitter.com/northernjamie](http://www.twitter.com/northernjamie)
 
